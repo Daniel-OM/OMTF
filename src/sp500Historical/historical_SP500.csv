@@ -1,0 +1,925 @@
+,date,ticker,name,reason,action,cik
+327,1997-06-17,USL,USLife,AIG acquired USLife.,removed,
+327,1997-06-17,CCI,Countrywide Credit Industries,AIG acquired USLife.,added,
+325,1998-12-11,GRN,General Re,Berkshire Hathaway purchased General Re.,removed,
+324,1998-12-11,LDW,Amoco,British Petroleum purchased Amoco.,removed,
+326,1998-12-11,CPWR,Compuware,AIG purchased SunAmerica.,added,
+326,1998-12-11,SUN,SunAmerica,AIG purchased SunAmerica.,removed,
+324,1998-12-11,FSR,Firstar,British Petroleum purchased Amoco.,added,
+325,1998-12-11,CCL,Carnival Corp.,Berkshire Hathaway purchased General Re.,added,
+323,1999-06-09,HPH,Harnischfeger Industries,Harnischfeger filed for bankruptcy.,removed,
+323,1999-06-09,WLP,Wellpoint,Harnischfeger filed for bankruptcy.,added,
+322,1999-12-07,LDW,Laidlaw,Market capitalization change.,removed,
+322,1999-12-07,YHOO,Yahoo!,Market capitalization change.,added,
+321,2000-06-07,SMS,Shared Medical Systems,Siemens AG acquired Shared Medical Systems.,removed,
+321,2000-06-07,SBUX,Starbucks,Siemens AG acquired Shared Medical Systems.,added,
+320,2000-06-12,CVG,Convergys,Tribune Co. acquired Times Mirror.,added,
+320,2000-06-12,TMC,Times Mirror,Tribune Co. acquired Times Mirror.,removed,
+319,2000-07-27,JDSU,JDS Uniphase,Market Cap change.,added,
+319,2000-07-27,RAD,RiteAid,Market Cap change.,removed,
+318,2000-12-05,CCK,Crown Holdings,Market Cap changes..,removed,
+315,2000-12-05,INTU,Intuit,Market Cap changes.,added,
+316,2000-12-05,SBL,Symbol Technologies,Market Cap changes..,added,
+317,2000-12-05,AYE,Allegheny Energy,Market Cap changes..,added,
+317,2000-12-05,GRA,WR Grace,Market Cap changes..,removed,
+316,2000-12-05,OI,Owens-Illinois,Market Cap changes..,removed,
+318,2000-12-05,ABK,Ambac Financial,Market Cap changes..,added,
+315,2000-12-05,BS,Bethlehem Steel,Market Cap changes.,removed,
+314,2003-09-25,QTRN,Quintiles Transnational,Taken private[243].,removed,
+314,2003-09-25,ESRX,Express Scripts,Taken private[243].,added,
+313,2005-07-01,GLK,Great Lakes Chemical,Acquired by Crompton Corp.,removed,
+313,2005-07-01,STZ,Constellation Brands,Acquired by Crompton Corp.,added,
+312,2005-11-18,T,AT&T Corporation,AT&T Corp. acquired by SBC Communications[241].,removed,
+312,2005-11-18,AMZN,Amazon,AT&T Corp. acquired by SBC Communications[241].,added,
+311,2006-06-02,ABS,Albertsons,Albertsons acquired by SuperValu and CVS Corp.,removed,
+311,2006-06-02,JNPR,Juniper Networks,Albertsons acquired by SuperValu and CVS Corp.,added,
+310,2007-01-10,AVB,AvalonBay Communities,Acquired by Motorola[239].,added,
+310,2007-01-10,SBL,Symbol Technologies,Acquired by Motorola[239].,removed,
+309,2007-03-30,KFT,Kraft Foods,Taken Private[238].,added,
+309,2007-03-30,TSG,Sabre Corporation,Taken Private[238].,removed,
+308,2007-07-02,DFS,Discover Financial Services,Discover Financial Services Debuts On New York Stock Exchange Under Ticker Symbol DFS.,added,
+307,2007-08-24,LUK,Leucadia National,Acquired by National Grid plc[237].,added,
+307,2007-08-24,KSE,KeySpan,Acquired by National Grid plc[237].,removed,
+306,2007-09-26,ICE,Intercontinental Exchange,FDC acquired by KKR.,added,
+306,2007-09-26,FDC,First Data,FDC acquired by KKR.,removed,
+305,2007-09-27,TSO,Tesoro Corporation,MXIM delisted from NASDAQ exchange.,added,
+305,2007-09-27,MXIM,Maxim Integrated Products,MXIM delisted from NASDAQ exchange.,removed,
+304,2007-10-01,TDC,Teradata,Teradata spun off by NCR Corporation.,added,
+304,2007-10-01,NCR,NCR Corporation,Teradata spun off by NCR Corporation.,removed,
+303,2007-10-02,EXPE,Expedia,Solectron acquired by Flextronics.,added,
+303,2007-10-02,SLR,Solectron,Solectron acquired by Flextronics.,removed,
+302,2007-10-26,JEC,Jacobs Engineering Group,Taken private[235].,added,
+302,2007-10-26,AV,Avaya,Taken private[235].,removed,
+301,2007-12-13,DJ,Dow Jones,Acquired by News Corporation[234].,removed,
+301,2007-12-13,GME,GameStop,Acquired by News Corporation[234].,added,
+300,2007-12-20,TRB,Tribune Media,Taken private[233].,removed,
+300,2007-12-20,RRC,Range Resources,Taken private[233].,added,
+299,2008-06-10,ABK,Ambac Financial,Market Value Decline[232].,removed,
+299,2008-06-10,LO,Lorillard Tobacco Company,Market Value Decline[232].,added,
+297,2008-06-23,BC,Brunswick,Market capitalization change.,removed,
+298,2008-06-23,MEE,Massey Energy,Market capitalization change.,added,
+297,2008-06-23,COG,Cabot Oil & Gas,Market capitalization change.,added,
+298,2008-06-23,OMX,OfficeMax,Market capitalization change.,removed,
+296,2008-07-01,CFC,Countrywide Financial Corp,Ak Steel replaced Countrywide Financial.,removed,
+296,2008-07-01,AKS,AK Steel,Ak Steel replaced Countrywide Financial.,added,
+295,2008-09-12,FAST,Fastenal,Capitalization rebalance.,added,
+295,2008-09-12,FNM,Fannie Mae,Capitalization rebalance.,removed,
+294,2008-09-12,FRE,Freddie Mac,Capitalization rebalance.,removed,
+294,2008-09-12,CRM,Salesforce,Capitalization rebalance.,added,
+293,2008-09-16,LEH,Lehman Brothers,Lehman Brothers filed for bankruptcy.,removed,
+293,2008-09-16,HRS,Harris Corporation,Lehman Brothers filed for bankruptcy.,added,
+292,2008-12-31,OI,Owens-Illinois,Wachovia Bank acquired by Wells Fargo.,added,
+292,2008-12-31,WB,Wachovia Bank,Wachovia Bank acquired by Wells Fargo.,removed,
+291,2009-03-03,VTR,Ventas,Capitalization rebalance..,added,
+290,2009-03-03,HRL,Hormel Foods,Capitalization rebalance.,added,
+291,2009-03-03,JNY,Jones Apparel Group,Capitalization rebalance..,removed,
+290,2009-03-03,ACAS,American Capital,Capitalization rebalance.,removed,
+289,2009-06-05,COV,Covidien,"Covidien moved its place of incorporation to Ireland, making it ineligible for inclusion in the index.",removed,
+289,2009-06-05,FTI,FMC Technologies,"Covidien moved its place of incorporation to Ireland, making it ineligible for inclusion in the index.",added,
+288,2009-08-19,CTX,Centex Corp.,Centex acquired by Pulte Homes.,removed,
+288,2009-08-19,FMC,FMC Corporation,Centex acquired by Pulte Homes.,added,
+287,2009-09-28,CBE,Cooper Industries,Redomesticated to Ireland[223].,removed,
+287,2009-09-28,ARG,Airgas,Redomesticated to Ireland[223].,added,
+286,2009-11-03,SGP,Schering-Plough,Acquired by Merck & Co. (MRK)[222].,removed,
+286,2009-11-03,PCLN,Priceline.com,Acquired by Merck & Co. (MRK)[222].,added,
+281,2009-12-18,CIEN,Ciena,Market capitalization change.,removed,
+283,2009-12-18,CLF,Cliffs Natural Resources,Market capitalization change.,added,
+284,2009-12-18,SAI,SAIC,Market capitalization change.,added,
+285,2009-12-18,ROST,Ross Stores,Market capitalization change.,added,
+282,2009-12-18,DYN,Dynegy,Market capitalization change.,removed,
+285,2009-12-18,MBI,MBIA,Market capitalization change.,removed,
+284,2009-12-18,CVG,Convergys,Market capitalization change.,removed,
+282,2009-12-18,MJN,Mead Johnson Nutrition,Market capitalization change.,added,
+281,2009-12-18,V,Visa,Market capitalization change.,added,
+283,2009-12-18,KBH,KB Home,Market capitalization change.,removed,
+280,2010-02-26,RX,IMS Health,Taken private[220].,removed,
+280,2010-02-26,HP,Helmerich & Payne,Taken private[220].,added,
+279,2010-04-29,CERN,Cerner,Acquired by Baker Hughes[219].,added,
+279,2010-04-29,BJS,BJ Services,Acquired by Baker Hughes[219].,removed,
+278,2010-06-28,KMX,CarMax,Acquired by ExxonMobil[218].,added,
+278,2010-06-28,XTO,XTO Energy,Acquired by ExxonMobil[218].,removed,
+277,2010-06-30,STR,Questar,"Company split. QEP retained, but ticker changed.",removed,
+277,2010-06-30,QEP,QEP Resources,"Company split. QEP retained, but ticker changed.",added,
+276,2010-07-14,CB,Chubb,Acquired by Merck KGaA (MKGAY)[216].,added,
+276,2010-07-14,MIL,Millipore,Acquired by Merck KGaA (MKGAY)[216].,removed,
+275,2010-08-26,TYC,Tyco International,Acquired by Schlumberger (SLB)[215].,added,
+275,2010-08-26,SII,Smith International,Acquired by Schlumberger (SLB)[215].,removed,
+274,2010-11-17,IR,Ingersoll-Rand,Reynolds Group Holdings acquired Pactiv.,added,
+274,2010-11-17,PTV,Pactiv,Reynolds Group Holdings acquired Pactiv.,removed,
+272,2010-12-17,ODP,Office Depot,Market Cap changes..,removed,
+271,2010-12-17,FFIV,F5 Networks,Market Cap changes.,added,
+272,2010-12-17,NFLX,Netflix,Market Cap changes..,added,
+273,2010-12-17,NFX,Newfield Exploration,Market Cap changes..,added,
+273,2010-12-17,NYT,The New York Times Company,Market Cap changes..,removed,
+270,2010-12-17,CVC,Cablevision,Acquired by Pfizer.,added,
+271,2010-12-17,EK,Eastman Kodak,Market Cap changes.,removed,
+270,2010-12-17,KG,King Pharmaceuticals,Acquired by Pfizer.,removed,
+269,2011-02-25,AYE,Allegheny Energy,Acquired by First Energy (FE).,removed,
+269,2011-02-25,JOYG,Joy Global,Acquired by First Energy (FE).,added,
+268,2011-02-28,MFE,McAfee,Acquired by Intel[211].,removed,
+268,2011-02-28,COV,Covidien,Acquired by Intel[211].,added,
+267,2011-03-31,EW,Edwards Lifesciences,Acquired by CenturyLink[210].,added,
+267,2011-03-31,Q,Qwest Communications,Acquired by CenturyLink[210].,removed,
+266,2011-04-01,BLK,BlackRock,Acquired by Sanofi Aventis (SNY)[209].,added,
+266,2011-04-01,GENZ,Genzyme,Acquired by Sanofi Aventis (SNY)[209].,removed,
+265,2011-04-27,CMG,Chipotle Mexican Grill,Acquired by private equity firms.,added,
+265,2011-04-27,NOVL,Novell,Acquired by private equity firms.,removed,
+264,2011-06-01,ANR,Alpha Natural Resources,Alpha Natural Resources acquired Massey Energy.,added,
+264,2011-06-01,MEE,Massey Energy,Alpha Natural Resources acquired Massey Energy.,removed,
+263,2011-06-30,RSH,RadioShack,Market capitalization adjustments.,removed,
+263,2011-06-30,MPC,Marathon Oil,Market capitalization adjustments.,added,
+262,2011-07-05,MI,Marshall & Ilsley,Marshall & Iisley is being bought by Bank of Montreal[205].,removed,
+262,2011-07-05,ACN,Accenture,Marshall & Iisley is being bought by Bank of Montreal[205].,added,
+261,2011-09-23,NSM,National Semiconductor,Acquired by Texas Instruments (TXN).,removed,
+261,2011-09-23,MOS,The Mosaic Company,Acquired by Texas Instruments (TXN).,added,
+260,2011-10-14,TEL,TE Connectivity,Acquired by Teva Pharmaceutical Industries (TEVA).,added,
+260,2011-10-14,CEPH,Cephalon,Acquired by Teva Pharmaceutical Industries (TEVA).,removed,
+259,2011-10-31,ITT,ITT,Spun off from ITT Corp.,removed,
+259,2011-10-31,XYL,Xylem,Spun off from ITT Corp.,added,
+258,2011-11-18,JNS,Janus Capital Group,Janus Capital Group's market capitalization is less than $1.2 billion  and is no longer representative of the large cap market space.,removed,
+258,2011-11-18,CBE,Cooper Industries,Janus Capital Group's market capitalization is less than $1.2 billion  and is no longer representative of the large cap market space.,added,
+257,2011-12-12,GAS,Nicor Gas,"Nicor acquired by AGL, which retained the GAS ticker.",removed,
+257,2011-12-12,GAS,AGL Resources.,"Nicor acquired by AGL, which retained the GAS ticker.",added,
+254,2011-12-16,AKS,AK Steel,Market capitalization changes[199].,removed,
+255,2011-12-16,PRGO,Perrigo,Market capitalization changes.,added,
+254,2011-12-16,BWA,BorgWarner,Market capitalization changes[199].,added,
+256,2011-12-16,WFR,MEMC Electronic Materials,Market capitalization changes.,removed,
+255,2011-12-16,MWW,Monster Worldwide,Market capitalization changes.,removed,
+256,2011-12-16,DLTR,Dollar Tree,Market capitalization changes.,added,
+253,2011-12-20,TRIP,TripAdvisor,Expedia spun off TripAdvisor.,added,
+253,2011-12-20,TLAB,Tellabs,Expedia spun off TripAdvisor.,removed,
+252,2011-12-31,WPX,WPX Energy,Market capitalization changes[197].,added,
+252,2011-12-31,CPWR,Compuware,Market capitalization changes[197].,removed,
+251,2012-03-13,CCI,Crown Castle,Acquired by Exelon Corp. (EXC)[196].,added,
+251,2012-03-13,CEG,Constellation Energy Group,Acquired by Exelon Corp. (EXC)[196].,removed,
+250,2012-04-03,MHS,Medco Health Solutions,Acquired by Express Scripts (ESRX)[195].,removed,
+250,2012-04-03,FOSL,Fossil,Acquired by Express Scripts (ESRX)[195].,added,
+249,2012-04-23,SVU,Supervalu,ConocoPhillips spun off Phillips 66[194].,removed,
+249,2012-04-23,PSX,Phillips 66,ConocoPhillips spun off Phillips 66[194].,added,
+248,2012-05-17,EP,El Paso Corporation,Acquired by Kinder Morgan (KMI)[193].,removed,
+248,2012-05-17,KMI,Kinder Morgan,Acquired by Kinder Morgan (KMI)[193].,added,
+247,2012-05-21,MMI,Motorola Mobility,Acquired by Google (GOOG)[192].,removed,
+247,2012-05-21,ALXN,Alexion Pharmaceuticals,Acquired by Google (GOOG)[192].,added,
+246,2012-06-05,NVLS,Novellus Systems,Acquired by Lam Research (LRCX)[191].,removed,
+246,2012-06-05,LRCX,Lam Research,Acquired by Lam Research (LRCX)[191].,added,
+245,2012-06-29,SLE,Sara Lee Corporation,Split up of Sara Lee[190].,removed,
+245,2012-06-29,MNST,Monster Beverage,Split up of Sara Lee[190].,added,
+244,2012-07-02,STX,Seagate Technology,Acquired by Duke Energy (DUK)[189].,added,
+244,2012-07-02,PGN,Progress Energy,Acquired by Duke Energy (DUK)[189].,removed,
+243,2012-07-31,GR,Goodrich Corporation,Goodrich acquired by United Technologies (UTX).,removed,
+243,2012-07-31,ESV,Ensco,Goodrich acquired by United Technologies (UTX).,added,
+242,2012-09-05,SHLD,Sears Holdings,SHLD below public float threshold[187].,removed,
+242,2012-09-05,LYB,LyondellBasell,SHLD below public float threshold[187].,added,
+241,2012-10-01,DV,DeVry,Tyco spin-off merged w/Pentair[186].,removed,
+240,2012-10-01,LXK,Lexmark,Tyco spun off ADT[186].,removed,
+241,2012-10-01,PNR,Pentair,Tyco spin-off merged w/Pentair[186].,added,
+240,2012-10-01,ADT,ADT,Tyco spun off ADT[186].,added,
+239,2012-10-02,ANR,Alpha Natural Resources,Kraft split into two companies[185].,removed,
+239,2012-10-02,KRFT,Kraft Foods,Kraft split into two companies[185].,added,
+238,2012-10-10,SUN,Sunoco,Acquired by Energy Transfer Partners (ETP)[184].,removed,
+238,2012-10-10,PETM,PetSmart,Acquired by Energy Transfer Partners (ETP)[184].,added,
+237,2012-12-03,DG,Dollar General,Acquired by Eaton Corp. (ETN)[183].,added,
+237,2012-12-03,CBE,Cooper Industries,Acquired by Eaton Corp. (ETN)[183].,removed,
+236,2012-12-11,RRD,RR Donnelley,Market capitalization changes[182].,removed,
+236,2012-12-11,GRMN,Garmin,Market capitalization changes[182].,added,
+235,2012-12-21,TIE,Titanium Metals,TIE acquired by Precision Cast Parts (PCP)[181].,removed,
+235,2012-12-21,DLPH,Delphi Automotive,TIE acquired by Precision Cast Parts (PCP)[181].,added,
+234,2013-01-02,FII,Federated Investors,ABBV spun off from Abbott Labs (ABT)[180].,removed,
+234,2013-01-02,ABBV,AbbVie,ABBV spun off from Abbott Labs (ABT)[180].,added,
+233,2013-02-15,BIG,Big Lots,Market capitalization changes[179].,removed,
+233,2013-02-15,PVH,PVH,Market capitalization changes[179].,added,
+232,2013-04-30,REGN,Regeneron Pharmaceuticals,A majority of MetroPCS was acquired by T-Mobile[178].,added,
+232,2013-04-30,PCS,MetroPCS,A majority of MetroPCS was acquired by T-Mobile[178].,removed,
+231,2013-05-08,CVH,Coventry Health Care,Acquired by Aetna (AET)[177].,removed,
+231,2013-05-08,MAC,Macerich,Acquired by Aetna (AET)[177].,added,
+230,2013-05-23,DF,Dean Foods,DF too small after spinoff of White Wave Foods[176].,removed,
+230,2013-05-23,KSU,Kansas City Southern,DF too small after spinoff of White Wave Foods[176].,added,
+229,2013-06-06,HNZ,Heinz,HNZ acquired by consortium[175].,removed,
+229,2013-06-06,GM,General Motors,HNZ acquired by consortium[175].,added,
+228,2013-06-21,FHN,First Horizon,Zoetis spun off by Pfizer[174].,removed,
+228,2013-06-21,ZTS,Zoetis,Zoetis spun off by Pfizer[174].,added,
+227,2013-07-01,NWSA,21st Century Fox,Apollo Group's market cap more representative of a mid-cap[173].,added,
+227,2013-07-01,APOL,Apollo Education Group,Apollo Group's market cap more representative of a mid-cap[173].,removed,
+226,2013-07-08,S,Sprint Nextel,Softbank consortium purchase results in public float below 50%[172].,removed,
+226,2013-07-08,NLSN,Nielsen Holdings,Softbank consortium purchase results in public float below 50%[172].,added,
+225,2013-09-10,DAL,Delta Air Lines,BMC taken private by consortium[171].,added,
+225,2013-09-10,BMC,BMC Software,BMC taken private by consortium[171].,removed,
+224,2013-09-20,AME,Ametek,Market capitalization change.,added,
+223,2013-09-20,VRTX,Vertex Pharmaceuticals,Market capitalization change.,added,
+224,2013-09-20,SAI,SAIC,Market capitalization change.,removed,
+223,2013-09-20,AMD,Advanced Micro Devices,Market capitalization change.,removed,
+222,2013-10-29,DELL,Dell,Founder Michael Dell and Silver Lake Partners acquired Dell.,removed,
+222,2013-10-29,RIG,Transocean,Founder Michael Dell and Silver Lake Partners acquired Dell.,added,
+221,2013-11-13,NYX,NYSE Euronext,ICE Exchange acquired NYSE Euronext.,removed,
+221,2013-11-13,KORS,Michael Kors,ICE Exchange acquired NYSE Euronext.,added,
+220,2013-12-02,ALLE,Allegion,Allegion spun off by Ingersoll Rand.,added,
+220,2013-12-02,JCP,JCPenney,Allegion spun off by Ingersoll Rand.,removed,
+219,2013-12-10,GGP,General Growth Properties,MOLX acquired by Koch Industries.,added,
+219,2013-12-10,MOLX,Molex,MOLX acquired by Koch Industries.,removed,
+216,2013-12-23,ANF,Abercrombie & Fitch,Market capitalization changes.,removed,
+217,2013-12-23,JDSU,JDS Uniphase,Market capitalization changes.,removed,
+218,2013-12-23,TER,Teradyne,Market capitalization changes.,removed,
+217,2013-12-23,MHK,Mohawk Industries,Market capitalization changes.,added,
+218,2013-12-23,FB,Facebook,Market capitalization changes.,added,
+216,2013-12-23,ADS,Alliance Data Systems,Market capitalization changes.,added,
+215,2014-01-24,LIFE,Life Technologies,Life Technologies acquired by Thermo Fisher Scientific Inc[164].,removed,
+215,2014-01-24,TSCO,Tractor Supply,Life Technologies acquired by Thermo Fisher Scientific Inc[164].,added,
+214,2014-03-21,GMCR,Keurig Green Mountain,Market capitalization changes[163].,added,
+214,2014-03-21,WPX,WPX Energy,Market capitalization changes[163].,removed,
+213,2014-04-02,CLF,Cliffs Natural Resources,Market capitalization changes[162].,removed,
+213,2014-04-02,ESS,Essex Property Trust,Market capitalization changes[162].,added,
+212,2014-04-03,GOOGL,Google,Google Class C share distribution[161].,added,
+210,2014-05-01,BEAM,Beam Inc,Beam acquired by Suntory[160].,removed,
+211,2014-05-01,NAVI,Navient,Navient Spun off from SLM[160].,added,
+211,2014-05-01,SLM,SLM Corporation,Navient Spun off from SLM[160].,removed,
+210,2014-05-01,UA,Under Armour (Class A),Beam acquired by Suntory[160].,added,
+209,2014-05-08,AVGO,Avago Technologies,Avago acquires LSI[159].,added,
+209,2014-05-08,LSI,LSI Corporation,Avago acquires LSI[159].,removed,
+208,2014-06-20,IGT,International Game Technology,Market capitalization changes[158].,removed,
+208,2014-06-20,XEC,Cimarex Energy,Market capitalization changes[158].,added,
+207,2014-07-01,FRX,Forest Laboratories,Actavis acquires Forest Laboratories[157].,removed,
+207,2014-07-01,AMG,Affiliated Managers Group,Actavis acquires Forest Laboratories[157].,added,
+206,2014-07-02,X,United States Steel,Market capitalization changes[156].,removed,
+206,2014-07-02,MLM,Martin Marietta,Market capitalization changes[156].,added,
+205,2014-08-06,DISCK,Discovery Communications,Class C share distribution[155].,added,
+204,2014-08-18,RDC,Rowan Companies,Market cap changes[154].,removed,
+204,2014-08-18,MNK,Mallinckrodt,Market cap changes[154].,added,
+202,2014-09-20,URI,United Rentals,Market cap changes[153].,added,
+202,2014-09-20,BTU,Peabody Energy,Market cap changes[153].,removed,
+203,2014-09-20,GHC,Graham Holdings,Market cap changes.,removed,
+203,2014-09-20,UHS,Universal Health Services,Market cap changes.,added,
+201,2014-11-05,JBL,Jabil Circuit,Market cap changes[152].,removed,
+201,2014-11-05,LVLT,Level 3 Communications,Market cap changes[152].,added,
+200,2014-12-05,BMS,Bemis Company,Market cap changes[151].,removed,
+200,2014-12-05,RCL,Royal Caribbean Cruises,Market cap changes[151].,added,
+198,2015-01-27,SWY,Safeway,Safeway acquired by private equity consortium[149].,removed,
+199,2015-01-27,COV,Covidien,Covidien acquired by Medtronic[150].,removed,
+198,2015-01-27,HCA,HCA Holdings,Safeway acquired by private equity consortium[149].,added,
+199,2015-01-27,ENDP,Endo International,Covidien acquired by Medtronic[150].,added,
+197,2015-03-12,PETM,PetSmart,PetSmart acquired by private equity consortium[148].,removed,
+197,2015-03-12,SWKS,Skyworks,PetSmart acquired by private equity consortium[148].,added,
+196,2015-03-18,HSIC,Henry Schein,Carefusion acquired by Becton Dickinson[147].,added,
+196,2015-03-18,CFN,Carefusion,Carefusion acquired by Becton Dickinson[147].,removed,
+195,2015-03-23,HBI,Hanesbrands,Market Capitalization Changes..,added,
+194,2015-03-23,SLG,SL Green Realty,Market Capitalization Changes..,added,
+193,2015-03-23,EQIX,Equinix,Market Capitalization Changes.,added,
+192,2015-03-23,AAL,American Airlines Group,Allergan acquired by Actavis (and changed name to Allergan).,added,
+195,2015-03-23,AVP,Avon Products,Market Capitalization Changes..,removed,
+194,2015-03-23,NBR,Nabors Industries,Market Capitalization Changes..,removed,
+193,2015-03-23,DNR,Denbury Resources,Market Capitalization Changes.,removed,
+192,2015-03-23,AGN,Allergan,Allergan acquired by Actavis (and changed name to Allergan).,removed,
+191,2015-04-07,WIN,Windstream Communications,Market capitalization change.,removed,
+191,2015-04-07,O,Realty Income Corporation,Market capitalization change.,added,
+190,2015-06-11,QRVO,Qorvo,Lorillard gets acquired.,added,
+190,2015-06-11,LO,Lorillard Tobacco Company,Lorillard gets acquired.,removed,
+188,2015-07-01,TEG,Integrys Energy Group,Integrys taken over.,removed,
+188,2015-07-01,JBHT,J.B. Hunt,Integrys taken over.,added,
+189,2015-07-01,BXLT,Baxalta,Baxalta spun off by Baxter.,added,
+189,2015-07-01,QEP,QEP Resources,Baxalta spun off by Baxter.,removed,
+187,2015-07-02,CPGX,Columbia Pipeline Group,Spin off of Columbia Pipeline.,added,
+187,2015-07-02,ATI,Allegheny Technologies,Spin off of Columbia Pipeline.,removed,
+186,2015-07-06,KHC,Kraft Heinz,Kraft merger with Heinz.,added,
+186,2015-07-06,KRFT,Kraft Foods,Kraft merger with Heinz.,removed,
+185,2015-07-08,AAP,Advance Auto Parts,Family Dollar acquired.,added,
+185,2015-07-08,FDO,Family Dollar,Family Dollar acquired.,removed,
+184,2015-07-20,PYPL,PayPal,PayPal Spun off by eBay[137].,added,
+184,2015-07-20,NE,Noble Corporation,PayPal Spun off by eBay[137].,removed,
+183,2015-07-29,DTV,DirecTV,DirecTV acquired by AT&T.,removed,
+183,2015-07-29,SIG,Signet Jewelers,DirecTV acquired by AT&T.,added,
+182,2015-08-28,PLL,Pall Corporation,Pall taken over[135].,removed,
+182,2015-08-28,ATVI,Activision Blizzard,Pall taken over[135].,added,
+181,2015-09-02,HSP,Hospira,Hospira taken over[135].,removed,
+181,2015-09-02,UAL,United Continental Holdings,Hospira taken over[135].,added,
+178,2015-09-18,CMCSK,Comcast Class K Special,Share class methodology change[134].,added,
+179,2015-09-18,FOX,Twenty-First Century Fox Class B,Share class methodology change.,added,
+180,2015-09-18,NWS,News Corporation Class B,Share class methodology change.,added,
+177,2015-10-07,JOY,Joy Global,Market capitalization change.,removed,
+177,2015-10-07,VRSK,Verisk Analytics,Market capitalization change.,added,
+176,2015-11-02,HCBK,Hudson City Bancorp,HPQ spins off HPE[132].,removed,
+176,2015-11-02,HPE,Hewlett Packard Enterprise,HPQ spins off HPE[132].,added,
+175,2015-11-18,SYF,Synchrony Financial,GE spinning off Synchrony Financial[131].,added,
+175,2015-11-18,GNW,Genworth Financial,GE spinning off Synchrony Financial[131].,removed,
+174,2015-11-19,SIAL,Sigma-Aldrich,Sigma-Aldrich acquired by Merck KGaA (MKGAY)[130].,removed,
+174,2015-11-19,ILMN,Illumina,Sigma-Aldrich acquired by Merck KGaA (MKGAY)[130].,added,
+173,2015-12-01,CSC,Computer Sciences Corporation,CSC spins off CSRA[129].,removed,
+173,2015-12-01,CSRA,CSRA,CSC spins off CSRA[129].,added,
+172,2015-12-15,CMCSK,Comcast K Corp,CMCSK shares no longer listed[128].,removed,
+171,2015-12-29,CHD,Church & Dwight,ALTR taken over by INTC[127].,added,
+171,2015-12-29,ALTR,Altera,ALTR taken over by INTC[127].,removed,
+170,2016-01-05,FOSL,Fossil Group,WSH merges with TW (and renames to WLTW)[126].,removed,
+170,2016-01-05,WLTW,Willis Towers Watson,WSH merges with TW (and renames to WLTW)[126].,added,
+169,2016-01-19,ACE,Chubb,"EXR replaces ACE as ACE Ltd acquires Chubb and retains the CB ticker, giving up ACE[125].",removed,
+169,2016-01-19,EXR,Extra Space Storage,"EXR replaces ACE as ACE Ltd acquires Chubb and retains the CB ticker, giving up ACE[125].",added,
+167,2016-02-01,CFG,Citizens,CFG replaces PCP[123].,added,
+168,2016-02-01,FRT,Federal Realty Investment Trust,FRT replaces BRCM[124].,added,
+167,2016-02-01,PCP,Precision Castparts Corporation,CFG replaces PCP[123].,removed,
+168,2016-02-01,BRCM,Broadcom Corporation,FRT replaces BRCM[124].,removed,
+166,2016-02-22,CXO,Concho Resources,PCL taken over by WY[122].,added,
+166,2016-02-22,PCL,Plum Creek Timber,PCL taken over by WY[122].,removed,
+165,2016-03-04,AWK,American Water Works,AWK replaces CNX[121].,added,
+165,2016-03-04,CNX,Consol Energy,AWK replaces CNX[121].,removed,
+164,2016-03-07,UDR,UDR Inc,JAB Holding Company acquired Keurig Green Mountain[120].,added,
+164,2016-03-07,GMCR,Keurig Green Mountain,JAB Holding Company acquired Keurig Green Mountain[120].,removed,
+163,2016-03-30,ESV,Ensco,Centene acquired Health Net.,removed,
+162,2016-03-30,POM,Pepco Holdings,Exelon acquired Pepco.,removed,
+163,2016-03-30,CNC,Centene Corporation,Centene acquired Health Net.,added,
+162,2016-03-30,HOLX,Hologic,Exelon acquired Pepco.,added,
+161,2016-04-04,CAM,Cameron International,Schlumberger acquired Cameron[118].,removed,
+161,2016-04-04,FL,Foot Locker,Schlumberger acquired Cameron[118].,added,
+160,2016-04-08,UA,Under Armour (Class C),Under Armour distribution of second class of stock.,added,
+159,2016-04-18,THC,Tenet Healthcare,Ulta replaces Tenet[117].,removed,
+159,2016-04-18,ULTA,Ulta Beauty,Ulta replaces Tenet[117].,added,
+158,2016-04-25,GME,GameStop,Global Payments is acquiring Heartland Payment Systems[116].,removed,
+158,2016-04-25,GPN,Global Payments,Global Payments is acquiring Heartland Payment Systems[116].,added,
+157,2016-05-03,AYI,Acuity Brands,ADT acquired by APO[115].,added,
+157,2016-05-03,ADT,ADT,ADT acquired by APO[115].,removed,
+156,2016-05-13,SNDK,SanDisk,SNDK acquired by WDC[114].,removed,
+156,2016-05-13,ALK,Alaska Air Group,SNDK acquired by WDC[114].,added,
+155,2016-05-18,TWC,Time Warner Cable,TWC acquired by CHTR[113].,removed,
+155,2016-05-18,DLR,Digital Realty,TWC acquired by CHTR[113].,added,
+154,2016-05-23,ARG,Airgas,ARG acquired by Air Liquide[112].,removed,
+154,2016-05-23,LKQ,LKQ Corporation,ARG acquired by Air Liquide[112].,added,
+153,2016-05-31,AJG,Arthur J. Gallagher & Co.,CCE merging with European bottlers[111].,added,
+153,2016-05-31,CCE,Coca-Cola Enterprises,CCE merging with European bottlers[111].,removed,
+152,2016-06-03,BXLT,Baxalta,SHPG acquiring BXLT[110].,removed,
+152,2016-06-03,TDG,TransDigm Group,SHPG acquiring BXLT[110].,added,
+151,2016-06-22,FBHS,Fortune Brands Home & Security,CVC acquired by Altice NV[109].,added,
+151,2016-06-22,CVC,Cablevision Systems,CVC acquired by Altice NV[109].,removed,
+150,2016-07-01,ALB,Albemarle Corporation,TE acquired by EMA[107].,added,
+149,2016-07-01,LNT,Alliant Energy Corp,GAS acquired by SO[108].,added,
+149,2016-07-01,GAS,AGL Resources,GAS acquired by SO[108].,removed,
+150,2016-07-01,TE,TECO Energy,TE acquired by EMA[107].,removed,
+148,2016-07-05,FTV,Fortive Corp,CPGX acquired by TRP[107].,added,
+148,2016-07-05,CPGX,Columbia Pipeline Group,CPGX acquired by TRP[107].,removed,
+147,2016-09-06,MTD,Mettler Toledo,TYC acquires JCI (and retains JCI ticker).,added,
+147,2016-09-06,TYC,Tyco International,TYC acquires JCI (and retains JCI ticker).,removed,
+146,2016-09-08,EMC,EMC Corporation,Dell acquires EMC[105].,removed,
+146,2016-09-08,CHTR,Charter Communications,Dell acquires EMC[105].,added,
+145,2016-09-22,HOT,Starwood,MAR acquires HOT[104].,removed,
+145,2016-09-22,COO,The Cooper Companies,MAR acquires HOT[104].,added,
+144,2016-09-30,DO,Diamond Offshore Drilling,COTY replaces DO[103].,removed,
+144,2016-09-30,COTY,Coty Inc,COTY replaces DO[103].,added,
+143,2016-11-01,ARNC,Arconic Inc,AA spins off ARNC[102].,added,
+143,2016-11-01,AA,Alcoa Inc,AA spins off ARNC[102].,removed,
+142,2016-12-02,LM,Legg Mason,Market capitalization change.,removed,
+141,2016-12-02,OI,Owens-Illinois,Market capitalization change.,removed,
+142,2016-12-02,EVHC,Envision Healthcare,Market capitalization change.,added,
+141,2016-12-02,MAA,Mid-America Apartments,Market capitalization change.,added,
+140,2017-01-05,STJ,St Jude Medical,S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.,removed,
+140,2017-01-05,IDXX,Idexx Laboratories,S&P 100 & 500 constituent Abbott Laboratories (NYSE:ABT) acquired St. Jude Medical.,added,
+139,2017-02-28,INCY,Incyte,SE acquired by ENB[99].,added,
+139,2017-02-28,SE,Spectra Energy,SE acquired by ENB[99].,removed,
+138,2017-03-01,CBOE,Cboe Holdings,CBOE acquires BATS[99].,added,
+138,2017-03-01,PBI,Pitney Bowes,CBOE acquires BATS[99].,removed,
+137,2017-03-02,ENDP,Endo International,REG acquires EQY[99].,removed,
+137,2017-03-02,REG,Regency Centers,REG acquires EQY[99].,added,
+136,2017-03-13,DISH,Dish Network,S&P 500 constituent Analog Devices (NASD:ADI) acquired Linear Technology.,added,
+136,2017-03-13,LLTC,Linear Technology,S&P 500 constituent Analog Devices (NASD:ADI) acquired Linear Technology.,removed,
+135,2017-03-16,SNPS,Synopsys,Samsung Electronics acquired Harman International Industries.,added,
+135,2017-03-16,HAR,Harman International,Samsung Electronics acquired Harman International Industries.,removed,
+134,2017-03-20,FSLR,First Solar,Market capitalization change.,removed,
+133,2017-03-20,FTR,Frontier Communications,Market capitalization change.,removed,
+132,2017-03-20,URBN,Urban Outfitters,Market capitalization change.,removed,
+133,2017-03-20,RJF,Raymond James Financial,Market capitalization change.,added,
+134,2017-03-20,ARE,Alexandria Real Estate Equities,Market capitalization change.,added,
+132,2017-03-20,AMD,Advanced Micro Devices,Market capitalization change.,added,
+131,2017-04-04,DXC,DXC Technology,"HPE spins off Everett, merged with CSC to form DXC[94][95].",added,
+131,2017-04-04,SWN,Southwestern Energy,"HPE spins off Everett, merged with CSC to form DXC[94][95].",removed,
+130,2017-04-05,DNB,Dun & Bradstreet,IT acquiring CEB[93].,removed,
+130,2017-04-05,IT,Gartner,IT acquiring CEB[93].,added,
+129,2017-06-02,TGNA,Tegna,TGNA spins off Cars.com[92].,removed,
+129,2017-06-02,INFO,IHS Markit,TGNA spins off Cars.com[92].,added,
+126,2017-06-19,TDC,Teradata,Market capitalization changes.,removed,
+127,2017-06-19,R,Ryder System,Market capitalization changes.,removed,
+128,2017-06-19,MJN,Mead Johnson,Reckitt Benckiser acquired Mead Johnson Nutrition.,removed,
+128,2017-06-19,RE,Everest Re,Reckitt Benckiser acquired Mead Johnson Nutrition.,added,
+127,2017-06-19,ANSS,Ansys,Market capitalization changes.,added,
+126,2017-06-19,ALGN,Align Technology,Market capitalization changes.,added,
+125,2017-06-19,HLT,Hilton,VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known as Altaba.,added,
+125,2017-06-19,YHOO,Yahoo!,VZ acquired YHOO operations; remainder of YHOO converted to closed-end company known as Altaba.,removed,
+122,2017-07-26,MUR,Murphy Oil,Market capitalization change.,removed,
+120,2017-07-26,DRE,Duke Realty Corp,Market capitalization change.,added,
+121,2017-07-26,AOS,A. O. Smith,Market capitalization change.,added,
+122,2017-07-26,PKG,Packaging Corporation of America,Market capitalization change.,added,
+123,2017-07-26,RMD,ResMed,Market capitalization change.,added,
+124,2017-07-26,MGM,MGM Resorts International,British American Tobacco (NYSE MKT:BTI) acquired Reynolds American.,added,
+120,2017-07-26,RIG,Transocean,Market capitalization change.,removed,
+121,2017-07-26,BBBY,Bed Bath & Beyond,Market capitalization change.,removed,
+124,2017-07-26,RAI,Reynolds American,British American Tobacco (NYSE MKT:BTI) acquired Reynolds American.,removed,
+123,2017-07-26,MNK,Mallinckrodt,Market capitalization change.,removed,
+119,2017-08-08,BHF,Brighthouse Financial,"BHF replaced AN,[88] MET spun off BHF[88].",added,
+119,2017-08-08,AN,AutoNation,"BHF replaced AN,[88] MET spun off BHF[88].",removed,
+118,2017-08-29,WFM,Whole Foods Market,Amazon acquired Whole Foods Market.,removed,
+118,2017-08-29,Q,QuintilesIMS,Amazon acquired Whole Foods Market.,added,
+117,2017-09-01,DD,DuPont,The Dow Chemical Company acquired DuPont.,removed,
+116,2017-09-01,DOW,Dow Chemical Company,The Dow Chemical Company renamed to DowDuPont Inc. and ticker changed from DOW to DWDP after acquiring DuPont.,removed,
+116,2017-09-01,DWDP,DowDuPont Inc.,The Dow Chemical Company renamed to DowDuPont Inc. and ticker changed from DOW to DWDP after acquiring DuPont.,added,
+117,2017-09-01,SBAC,SBA Communications,The Dow Chemical Company acquired DuPont.,added,
+115,2017-09-18,CDNS,Cadence Design Systems,Sycamore Partners acquired Staples.,added,
+115,2017-09-18,SPLS,Staples,Sycamore Partners acquired Staples.,removed,
+114,2017-10-13,NCLH,Norwegian Cruise Line Holdings,CenturyLink acquired LVLT.,added,
+114,2017-10-13,LVLT,Level 3 Communications,CenturyLink acquired LVLT.,removed,
+113,2018-01-03,HII,Huntington Ingalls Industries,Becton Dickinson acquired BCR.,added,
+113,2018-01-03,BCR,CR Bard,Becton Dickinson acquired BCR.,removed,
+112,2018-03-07,SNI,Scripps Networks Interactive,Discovery Communications acquired SNI.,removed,
+112,2018-03-07,IPGP,IPG Photonics,Discovery Communications acquired SNI.,added,
+110,2018-03-19,PDCO,Patterson Companies,Market capitalization change.,removed,
+109,2018-03-19,SIG,Signet Jewelers,Market capitalization change.,removed,
+109,2018-03-19,TTWO,Take-Two Interactive,Market capitalization change.,added,
+110,2018-03-19,SIVB,SVB Financial Group,Market capitalization change.,added,
+111,2018-03-19,NKTR,Nektar Therapeutics,Market capitalization change.,added,
+111,2018-03-19,CHK,Chesapeake Energy,Market capitalization change.,removed,
+108,2018-04-04,MSCI,MSCI,S&P 500 constituent General Dynamics (NYSE: GD) acquired CSRA.,added,
+108,2018-04-04,CSRA,CSRA,S&P 500 constituent General Dynamics (NYSE: GD) acquired CSRA.,removed,
+107,2018-05-31,ABMD,Abiomed,Wyndham Worldwide spun off Wyndham Hotels & Resorts (NYSE:WH).,added,
+107,2018-05-31,WYN,Wyndham Worldwide,Wyndham Worldwide spun off Wyndham Hotels & Resorts (NYSE:WH).,removed,
+106,2018-06-05,NAVI,Navient,Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.,removed,
+106,2018-06-05,EVRG,Evergy,Westar Energy (NYSE: WR) acquired Great Plains Energy (NYSE: GXP) and changed name to Evergy.,added,
+105,2018-06-07,TWTR,Twitter,Bayer acquired Monsanto.,added,
+105,2018-06-07,MON,Monsanto,Bayer acquired Monsanto.,removed,
+103,2018-06-18,BR,Broadridge Financial Solutions,Market capitalization change.,added,
+103,2018-06-18,RRC,Range Resources,Market capitalization change.,removed,
+104,2018-06-18,HFC,HollyFrontier,Market capitalization change.,added,
+104,2018-06-18,AYI,Acuity Brands,Market capitalization change.,removed,
+102,2018-06-20,FLT,FleetCor Technologies,AT&T acquired Time Warner.,added,
+102,2018-06-20,TWX,Time Warner,AT&T acquired Time Warner.,removed,
+101,2018-07-02,CPRT,Copart,DPS acquired by Keurig Green Mountain.,added,
+101,2018-07-02,DPS,Dr Pepper Snapple Group,DPS acquired by Keurig Green Mountain.,removed,
+100,2018-08-28,GGP,GGP,GGP acquired by Brookfield Property Partners.,removed,
+100,2018-08-28,ANET,Arista Networks,GGP acquired by Brookfield Property Partners.,added,
+99,2018-09-14,XL,XL Group,XL acquired by AXA.,removed,
+99,2018-09-14,WCG,WellCare,XL acquired by AXA.,added,
+98,2018-10-01,ROL,Rollins Inc,ANDV acquired by Marathon Petroleum.,added,
+98,2018-10-01,ANDV,Andeavor,ANDV acquired by Marathon Petroleum.,removed,
+97,2018-10-11,FTNT,Fortinet,EVHC acquired by KKR.,added,
+97,2018-10-11,EVHC,Envision Healthcare,EVHC acquired by KKR.,removed,
+96,2018-11-06,CA,CA Technologies,CA acquired by Broadcom.,removed,
+96,2018-11-06,KEYS,Keysight,CA acquired by Broadcom.,added,
+95,2018-11-13,JKHY,Jack Henry & Associates,EQT spun off ETRN[69].,added,
+95,2018-11-13,EQT,EQT,EQT spun off ETRN[69].,removed,
+92,2018-12-03,LW,Lamb Weston,UTX acquired COL[68].,added,
+93,2018-12-03,MXIM,Maxim Integrated,CVS acquired Aetna[68].,added,
+94,2018-12-03,FANG,Diamondback Energy,Market Capitalization change[68].,added,
+92,2018-12-03,COL,Rockwell Collins,UTX acquired COL[68].,removed,
+94,2018-12-03,SRCL,Stericycle,Market Capitalization change[68].,removed,
+93,2018-12-03,AET,Aetna,CVS acquired Aetna[68].,removed,
+91,2018-12-24,CE,Celanese,S&P 500 constituent Cigna (NYSE: CI) acquired ESRX[67].,added,
+91,2018-12-24,ESRX,Express Scripts,S&P 500 constituent Cigna (NYSE: CI) acquired ESRX[67].,removed,
+90,2019-01-02,FRC,First Republic Bank,Dominion Energy acquired SCANA Corporation[66].,added,
+90,2019-01-02,SCG,SCANA,Dominion Energy acquired SCANA Corporation[66].,removed,
+89,2019-01-18,TFX,Teleflex,PCG filed for bankruptcy[65].,added,
+89,2019-01-18,PCG,Pacific Gas & Electric Company,PCG filed for bankruptcy[65].,removed,
+88,2019-02-15,NFX,Newfield Exploration,ECA acquired NFX[64].,removed,
+88,2019-02-15,ATO,Atmos Energy,ECA acquired NFX[64].,added,
+87,2019-02-27,WAB,Wabtec,WAB acquired GE transportation business[63].,added,
+87,2019-02-27,GT,The Goodyear Tire & Rubber Company,WAB acquired GE transportation business[63].,removed,
+86,2019-04-02,BHF,Brighthouse Financial,DOW spun off from DWDP[62].,removed,
+86,2019-04-02,DOW,Dow Inc.,DOW spun off from DWDP[62].,added,
+84,2019-06-03,DD,DuPont,DWDP changed to DD after spinning off Corteva.,added,
+85,2019-06-03,CTVA,Corteva,CTVA spun off from DWDP (which then changed symbol to DD)[61].,added,
+84,2019-06-03,DWDP,DowDuPont Inc.,DWDP changed to DD after spinning off Corteva.,removed,
+85,2019-06-03,FLR,Fluor Corporation,CTVA spun off from DWDP (which then changed symbol to DD)[61].,removed,
+83,2019-06-07,MAT,Mattel,Pending merger of Bemis and Amcor; Bemis treated as the surviving entity.,removed,
+83,2019-06-07,BMS,Bemis,Pending merger of Bemis and Amcor; Bemis treated as the surviving entity.,added,
+82,2019-06-11,AMCR,Amcor,BMS changed to AMCR post merger with Amcor;[58] subsequently renamed to Amcor[59].,added,
+82,2019-06-11,BMS,Bemis,BMS changed to AMCR post merger with Amcor;[58] subsequently renamed to Amcor[59].,removed,
+81,2019-07-01,MKTX,MarketAxess,L3 purchased by Harris Corporation[57].,added,
+81,2019-07-01,LLL,L3 Technologies,L3 purchased by Harris Corporation[57].,removed,
+80,2019-07-15,TMUS,T-Mobile US,S&P 500 & 100 constituent IBM acquired Red Hat.,added,
+80,2019-07-15,RHT,Red Hat,S&P 500 & 100 constituent IBM acquired Red Hat.,removed,
+79,2019-08-09,IEX,IDEX Corporation,Market capitalization change.,added,
+78,2019-08-09,LDOS,Leidos,S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.,added,
+79,2019-08-09,FL,Foot Locker,Market capitalization change.,removed,
+78,2019-08-09,APC,Anadarko Petroleum,S&P 500 & 100 constituent Occidental Petroleum Corp. (NYSE:OXY) acquired Anadarko Petroleum.,removed,
+77,2019-09-23,CDW,CDW,S&P 500 constituent Global Payments (NYSE: GPN) acquired TSS.,added,
+77,2019-09-23,TSS,TSYS,S&P 500 constituent Global Payments (NYSE: GPN) acquired TSS.,removed,
+76,2019-09-26,NVR,NVR Inc,JEF spun off SPB.,added,
+76,2019-09-26,JEF,Jefferies Financial Group,JEF spun off SPB.,removed,
+75,2019-10-03,LVS,Las Vegas Sands,Market capitalization change.,added,
+75,2019-10-03,NKTR,Nektar Therapeutics,Market capitalization change.,removed,
+74,2019-11-21,NOW,ServiceNow,Bristol-Myers Squibb (NYSE:BMY) acquired Celgene.,added,
+74,2019-11-21,CELG,Celgene,Bristol-Myers Squibb (NYSE:BMY) acquired Celgene.,removed,
+73,2019-12-05,WRB,W. R. Berkley Corporation,CBS acquired Viacom to form ViacomCBS.,added,
+73,2019-12-05,VIAB,Viacom,CBS acquired Viacom to form ViacomCBS.,removed,
+72,2019-12-09,ODFL,Old Dominion Freight Line,BB&T acquired SunTrust to form Truist Financial.,added,
+72,2019-12-09,STI,SunTrust Banks,BB&T acquired SunTrust to form Truist Financial.,removed,
+69,2019-12-23,LYV,Live Nation Entertainment,Market capitalization change.,added,
+71,2019-12-23,STE,Steris,Market capitalization change.,added,
+71,2019-12-23,MAC,Macerich,Market capitalization change.,removed,
+70,2019-12-23,TRIP,TripAdvisor,Market capitalization change.,removed,
+69,2019-12-23,AMG,Affiliated Managers Group,Market capitalization change.,removed,
+70,2019-12-23,ZBRA,Zebra Technologies,Market capitalization change.,added,
+68,2020-01-28,WCG,WellCare,S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.,removed,
+68,2020-01-28,PAYC,Paycom,S&P 500 constituent Centene Corp. (NYSE: CNC) acquired Wellcare Health Plans.,added,
+67,2020-03-02,XEC,Cimarex Energy,"Gardner Denver acquired Ingersoll Rand's industrial businesses then changed its name to the ""new"" Ingersoll Rand Inc.",removed,
+67,2020-03-02,IR,Ingersoll Rand,"Gardner Denver acquired Ingersoll Rand's industrial businesses then changed its name to the ""new"" Ingersoll Rand Inc.",added,
+66,2020-04-01,ARNC,Arconic,Arconic separated into 2 companies - Howmet remained on the index.,removed,
+66,2020-04-01,HWM,Howmet Aerospace,Arconic separated into 2 companies - Howmet remained on the index.,added,
+64,2020-04-03,OTIS,Otis Worldwide,United Technologies spun off Otis and Carrier and acquired Raytheon Company.,added,
+65,2020-04-03,CARR,Carrier,United Technologies spun off Otis and Carrier and acquired Raytheon Company.,added,
+63,2020-04-06,RTN,Raytheon Company,United Technologies spun off Otis and Carrier and acquired Raytheon Company.,removed,
+62,2020-04-06,M,Macy's,Market capitalization change.,removed,
+61,2020-05-12,DXCM,Dexcom,Allergan acquired by AbbVie.,added,
+60,2020-05-12,DPZ,Domino's Pizza,Market capitalization change.,added,
+60,2020-05-12,CPRI,Capri Holdings,Market capitalization change.,removed,
+61,2020-05-12,AGN,Allergan,Allergan acquired by AbbVie.,removed,
+59,2020-05-22,WST,West Pharmaceutical Services,Market capitalization change.,added,
+59,2020-05-22,HP,Helmerich & Payne,Market capitalization change.,removed,
+56,2020-06-22,ADS,Alliance Data Systems,Market capitalization change.,removed,
+58,2020-06-22,TYL,Tyler Technologies,Market capitalization change.,added,
+57,2020-06-22,HOG,Harley-Davidson,Market capitalization change.,removed,
+57,2020-06-22,TDY,Teledyne,Market capitalization change.,added,
+56,2020-06-22,BIO,Bio-Rad Laboratories,Market capitalization change.,added,
+58,2020-06-22,JWN,Nordstrom,Market capitalization change.,removed,
+53,2020-09-21,ETSY,Etsy,Market capitalization change.,added,
+54,2020-09-21,TER,Teradyne,Market capitalization change.,added,
+55,2020-09-21,CTLT,Catalent,Market capitalization change.,added,
+53,2020-09-21,HRB,H&R Block,Market capitalization change.,removed,
+54,2020-09-21,COTY,Coty,Market capitalization change.,removed,
+55,2020-09-21,KSS,Kohl's,Market capitalization change.,removed,
+52,2020-10-07,ETFC,E-Trade,Morgan Stanley acquired E*Trade.,removed,
+52,2020-10-07,POOL,Pool Corporation,Morgan Stanley acquired E*Trade.,added,
+51,2020-10-09,VNT,Vontier,S&P 500 constituent Fortive spun off Vontier.,added,
+50,2020-10-12,NBL,Noble Energy,Chevron acquired Noble Energy.,removed,
+49,2020-12-21,TSLA,Tesla Inc,Apartment Investment and Management (Aimco) spun off Apartment Income REIT.,added,
+49,2020-12-21,AIV,Apartment Investment & Management,Apartment Investment and Management (Aimco) spun off Apartment Income REIT.,removed,
+48,2021-01-07,ENPH,Enphase Energy,LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.,added,
+48,2021-01-07,TIF,Tiffany & Co,LVMH Moet Hennessy-Louis Vuitton SE acquired Tiffany & Co.,removed,
+47,2021-01-21,CXO,Concho Resources,S&P 500/100 constituent ConocoPhillips acquired Concho Resources.,removed,
+47,2021-01-21,TRMB,Trimble Inc,S&P 500/100 constituent ConocoPhillips acquired Concho Resources.,added,
+46,2021-02-12,FTI,TechnipFMC,TechnipFMC was removed from the S&P 500 in anticipation of its announced spin-off of Technip Energies.,removed,
+46,2021-02-12,MPWR,Monolithic Power Systems,TechnipFMC was removed from the S&P 500 in anticipation of its announced spin-off of Technip Energies.,added,
+44,2021-03-22,GNRC,Generac Holdings,Market capitalization change.,added,
+43,2021-03-22,PENN,Penn National Gaming,Market capitalization change.,added,
+44,2021-03-22,XRX,Xerox,Market capitalization change.,removed,
+42,2021-03-22,NXPI,NXP,Market capitalization change.,added,
+45,2021-03-22,VNT,Vontier,Market capitalization change.,removed,
+45,2021-03-22,CZR,Caesars Entertainment,Market capitalization change.,added,
+43,2021-03-22,SLG,SL Green Realty,Market capitalization change.,removed,
+42,2021-03-22,FLS,Flowserve,Market capitalization change.,removed,
+41,2021-04-20,VAR,Varian Medical Systems,Siemens Healthineers acquired Varian Medical Systems.,removed,
+41,2021-04-20,PTC,PTC,Siemens Healthineers acquired Varian Medical Systems.,added,
+40,2021-05-14,FLIR,FLIR Systems,S&P 500 constituent Teledyne Technologies acquired FLIR Systems.,removed,
+40,2021-05-14,CRL,Charles River Laboratories,S&P 500 constituent Teledyne Technologies acquired FLIR Systems.,added,
+39,2021-06-03,OGN,Organon & Co.,S&P 500/100 constituent Merck & Co. spun off Organon.,added,
+38,2021-06-04,HFC,HollyFrontier,Market capitalization change.,removed,
+37,2021-07-21,MRNA,Moderna,AstraZeneca acquired Alexion Pharmaceuticals.,added,
+37,2021-07-21,ALXN,Alexion Pharmaceuticals,AstraZeneca acquired Alexion Pharmaceuticals.,removed,
+36,2021-08-30,TECH,Bio-Techne,S&P 500 constituent Analog Devices acquired Maxim Integrated Products.,added,
+36,2021-08-30,MXIM,Maxim Integrated,S&P 500 constituent Analog Devices acquired Maxim Integrated Products.,removed,
+35,2021-09-20,BRO,Brown & Brown,Market capitalization change.,added,
+34,2021-09-20,CDAY,Ceridian,Market capitalization change.,added,
+33,2021-09-20,MTCH,Match Group,Market capitalization change.,added,
+35,2021-09-20,NOV,Nov,Market capitalization change.,removed,
+33,2021-09-20,PRGO,Perrigo,Market capitalization change.,removed,
+34,2021-09-20,UNM,Unum,Market capitalization change.,removed,
+32,2021-12-14,EPAM,EPAM Systems,Canadian Pacific acquired Kansas City Southern.,added,
+32,2021-12-14,KSU,Kansas City Southern,Canadian Pacific acquired Kansas City Southern.,removed,
+29,2021-12-20,SBNY,Signature Bank,Market capitalization change.,added,
+30,2021-12-20,SEDG,SolarEdge,Market capitalization change.,added,
+31,2021-12-20,FDS,FactSet,Market capitalization change.,added,
+29,2021-12-20,LEG,Leggett & Platt,Market capitalization change.,removed,
+30,2021-12-20,HBI,Hanesbrands,Market capitalization change.,removed,
+31,2021-12-20,WU,Western Union,Market capitalization change.,removed,
+28,2022-02-02,CEG,Constellation Energy,S&P 500 and 100 constituent Exelon Corp. spun off Constellation Energy.,added,
+27,2022-02-03,GPS,Gap Inc.,Market capitalization change.,removed,
+26,2022-02-15,XLNX,Xilinx,S&P 500 constituent Advanced Micro Devices acquired Xilinx.,removed,
+26,2022-02-15,NDSN,Nordson Corporation,S&P 500 constituent Advanced Micro Devices acquired Xilinx.,added,
+25,2022-03-02,INFO,IHS Markit,S&P 500 constituent S&P Global Inc. acquired IHS Markit.,removed,
+25,2022-03-02,MOH,Molina Healthcare,S&P 500 constituent S&P Global Inc. acquired IHS Markit.,added,
+24,2022-04-04,CPT,Camden Property Trust,S&P 500 constituent M&T Bank Corp. acquired People's United Financial.,added,
+24,2022-04-04,PBCT,People's United Financial,S&P 500 constituent M&T Bank Corp. acquired People's United Financial.,removed,
+23,2022-06-08,VICI,Vici Properties,S&P 500 constituent Oracle Corp. acquired Cerner.,added,
+23,2022-06-08,CERN,Cerner,S&P 500 constituent Oracle Corp. acquired Cerner.,removed,
+22,2022-06-21,IPGP,IPG Photonics,Market capitalization change.,removed,
+22,2022-06-21,ON,ON Semiconductor,Market capitalization change.,added,
+21,2022-06-21,KDP,Keurig Dr Pepper,Market capitalization change.,added,
+21,2022-06-21,UAA,Under Armour,Market capitalization change.,removed,
+20,2022-06-21,UA,Under Armour,Market capitalization change.,removed,
+19,2022-09-19,INVH,Invitation Homes,Market capitalization change.,added,
+19,2022-09-19,PENN,Penn Entertainment,Market capitalization change.,removed,
+18,2022-09-19,PVH,PVH,Market capitalization change.,removed,
+18,2022-09-19,CSGP,CoStar Group,Market capitalization change.,added,
+17,2022-10-03,EQT,EQT,S&P 500 constituent Prologis Inc. acquired Duke Realty.,added,
+16,2022-10-03,CTXS,Citrix Systems,Vista Equity Partners acquired Citrix Systems.,removed,
+17,2022-10-03,DRE,Duke Realty,S&P 500 constituent Prologis Inc. acquired Duke Realty.,removed,
+16,2022-10-03,PCG,PG&E,Vista Equity Partners acquired Citrix Systems.,added,
+15,2022-10-12,NLSN,Nielsen Holdings,Elliot Management Corp acquired Nielsen Holdings.,removed,
+15,2022-10-12,TRGP,Targa Resources,Elliot Management Corp acquired Nielsen Holdings.,added,
+14,2022-11-01,ACGL,Arch Capital Group,Elon Musk acquired Twitter.,added,
+14,2022-11-01,TWTR,Twitter,Elon Musk acquired Twitter.,removed,
+13,2022-12-15,MBC,MasterBrand,S&P 500 constituent Fortune Brands Home & Security spun off MasterBrand.,added,
+12,2022-12-19,MBC,MasterBrand,Market capitalization change.,removed,
+11,2022-12-19,FBHS,Fortune Brands Home & Security,Market capitalization change.,removed,
+11,2022-12-19,FSLR,First Solar,Market capitalization change.,added,
+10,2022-12-22,STLD,Steel Dynamics,S&P 500 constituent Johnson & Johnson acquired Abiomed.,added,
+10,2022-12-22,ABMD,Abiomed,S&P 500 constituent Johnson & Johnson acquired Abiomed.,removed,
+9,2023-01-04,GEHC,GE HealthCare,S&P 500 constituent General Electric spun off GE HealthCare.,added,
+8,2023-01-05,VNO,Vornado Realty Trust,Market capitalization change.,removed,
+7,2023-03-15,SIVB,SVB Financial Group,"The FDIC placed SVB's main subsidiary, Silicon Valley Bank, into receivership.",removed,
+6,2023-03-15,SBNY,Signature Bank,The FDIC placed Signature Bank into FDIC Receivership.,removed,
+7,2023-03-15,PODD,Insulet,"The FDIC placed SVB's main subsidiary, Silicon Valley Bank, into receivership.",added,
+6,2023-03-15,BG,Bunge Limited,The FDIC placed Signature Bank into FDIC Receivership.,added,
+5,2023-03-20,LUMN,Lumen Technologies,Market capitalization change.,removed,
+5,2023-03-20,FICO,Fair Isaac,Market capitalization change.,added,
+4,2023-05-04,FRC,First Republic Bank,The Federal Deposit Insurance Corporation (FDIC) placed First Republic Bank into FDIC Receivership.,removed,
+4,2023-05-04,AXON,Axon Enterprise,The Federal Deposit Insurance Corporation (FDIC) placed First Republic Bank into FDIC Receivership.,added,
+3,2023-06-20,PANW,Palo Alto Networks,Market capitalization change.,added,
+3,2023-06-20,DISH,Dish Network,Market capitalization change.,removed,
+2,2023-08-25,AAP,Advance Auto Parts,S&P 500 and S&P 100 constituent Johnson & Johnson offered to exchange the shares of Kenvue held for shares of Johnson & Johnson in a split-off exchange offer.,removed,
+2,2023-08-25,KVUE,Kenvue,S&P 500 and S&P 100 constituent Johnson & Johnson offered to exchange the shares of Kenvue held for shares of Johnson & Johnson in a split-off exchange offer.,added,
+1,2023-09-18,ABNB,Airbnb,Market capitalization change.,added,
+1,2023-09-18,NWL,Newell Brands Inc,Market capitalization change.,removed,
+0,2023-09-18,LNC,Lincoln National Corp,Market capitalization change.,removed,
+0,2023-09-18,BX,Blackstone,Market capitalization change.,added,
+0,1957-03-04,MMM,3M,,added,0000066740
+2,1957-03-04,ABT,Abbott,,added,0000001800
+6,1957-03-04,ADM,ADM,,added,0000007084
+7,1957-03-04,ADBE,Adobe Inc.,,added,0000796343
+8,1957-03-04,ADP,ADP,,added,0000008670
+9,1957-03-04,AES,AES Corporation,,added,0000874761
+10,1957-03-04,AFL,Aflac,,added,0000004977
+11,1957-03-04,A,Agilent Technologies,,added,0001090872
+13,1957-03-04,APD,Air Products and Chemicals,,added,0000002969
+14,1957-03-04,AKAM,Akamai,,added,0001086222
+21,1957-03-04,ALL,Allstate,,added,0000899051
+23,1957-03-04,GOOG,Alphabet Inc. (Class C),,added,0001652044
+24,1957-03-04,MO,Altria,,added,0000764180
+28,1957-03-04,AEE,Ameren,,added,0001002910
+30,1957-03-04,AEP,American Electric Power,,added,0000004904
+31,1957-03-04,AXP,American Express,,added,0000004962
+32,1957-03-04,AIG,American International Group,,added,0000005272
+33,1957-03-04,AMT,American Tower,,added,0001053507
+35,1957-03-04,AMP,Ameriprise Financial,,added,0000820027
+37,1957-03-04,AMGN,Amgen,,added,0000318154
+38,1957-03-04,APH,Amphenol,,added,0000820313
+39,1957-03-04,ADI,Analog Devices,,added,0000006281
+41,1957-03-04,AON,Aon,,added,0000315293
+42,1957-03-04,APA,APA Corporation,,added,0001841666
+43,1957-03-04,AAPL,Apple Inc.,,added,0000320193
+44,1957-03-04,AMAT,Applied Materials,,added,0000006951
+45,1957-03-04,APTV,Aptiv,,added,0001521332
+49,1957-03-04,AIZ,Assurant,,added,0001267238
+52,1957-03-04,ADSK,Autodesk,,added,0000769397
+53,1957-03-04,AZO,AutoZone,,added,0000866787
+55,1957-03-04,AVY,Avery Dennison,,added,0000008818
+57,1957-03-04,BKR,Baker Hughes,,added,0001701605
+58,1957-03-04,BALL,Ball Corporation,,added,0000009389
+59,1957-03-04,BAC,Bank of America,,added,0000070858
+60,1957-03-04,BBWI,"Bath & Body Works, Inc.",,added,0000701985
+61,1957-03-04,BAX,Baxter International,,added,0000010456
+62,1957-03-04,BDX,Becton Dickinson,,added,0000010795
+64,1957-03-04,BRK-B,Berkshire Hathaway,,added,0001067983
+65,1957-03-04,BBY,Best Buy,,added,0000764478
+68,1957-03-04,BIIB,Biogen,,added,0000875045
+71,1957-03-04,BK,BNY Mellon,,added,0001390777
+72,1957-03-04,BA,Boeing,,added,0000012927
+73,1957-03-04,BKNG,Booking Holdings,,added,0001075531
+75,1957-03-04,BXP,Boston Properties,,added,0001037540
+76,1957-03-04,BSX,Boston Scientific,,added,0000885725
+77,1957-03-04,BMY,Bristol Myers Squibb,,added,0000014272
+81,1957-03-04,BF-B,Brown–Forman,,added,0000014693
+83,1957-03-04,CHRW,C.H. Robinson,,added,0001043277
+87,1957-03-04,CPB,Campbell Soup Company,,added,0000016732
+88,1957-03-04,COF,Capital One,,added,0000927628
+89,1957-03-04,CAH,Cardinal Health,,added,0000721371
+94,1957-03-04,CAT,Caterpillar Inc.,,added,0000018230
+96,1957-03-04,CBRE,CBRE Group,,added,0001138118
+99,1957-03-04,COR,Cencora,,added,0001140859
+101,1957-03-04,CNP,CenterPoint Energy,,added,0001130310
+103,1957-03-04,CF,CF Industries,,added,0001324404
+105,1957-03-04,SCHW,Charles Schwab Corporation,,added,0000316709
+107,1957-03-04,CVX,Chevron Corporation,,added,0000093410
+111,1957-03-04,CI,Cigna,,added,0001739940
+112,1957-03-04,CINF,Cincinnati Financial,,added,0000020286
+113,1957-03-04,CTAS,Cintas,,added,0000723254
+114,1957-03-04,CSCO,Cisco,,added,0000858877
+115,1957-03-04,C,Citigroup,,added,0000831001
+117,1957-03-04,CLX,Clorox,,added,0000021076
+118,1957-03-04,CME,CME Group,,added,0001156375
+119,1957-03-04,CMS,CMS Energy,,added,0000811156
+120,1957-03-04,KO,Coca-Cola Company (The),,added,0000021344
+121,1957-03-04,CTSH,Cognizant,,added,0001058290
+122,1957-03-04,CL,Colgate-Palmolive,,added,0000021665
+123,1957-03-04,CMCSA,Comcast,,added,0001166691
+124,1957-03-04,CMA,Comerica,,added,0000028412
+125,1957-03-04,CAG,Conagra Brands,,added,0000023217
+126,1957-03-04,COP,ConocoPhillips,,added,0001163165
+127,1957-03-04,ED,Consolidated Edison,,added,0001047862
+132,1957-03-04,GLW,Corning Inc.,,added,0000024741
+135,1957-03-04,COST,Costco,,added,0000909832
+136,1957-03-04,CTRA,Coterra,,added,0000858470
+138,1957-03-04,CSX,CSX,,added,0000277948
+139,1957-03-04,CMI,Cummins,,added,0000026172
+140,1957-03-04,CVS,CVS Health,,added,0000064803
+141,1957-03-04,DHI,D.R. Horton,,added,0000882184
+142,1957-03-04,DHR,Danaher Corporation,,added,0000313616
+143,1957-03-04,DRI,Darden Restaurants,,added,0000940944
+144,1957-03-04,DVA,DaVita Inc.,,added,0000927066
+145,1957-03-04,DE,John Deere,,added,0000315189
+147,1957-03-04,XRAY,Dentsply Sirona,,added,0000818479
+148,1957-03-04,DVN,Devon Energy,,added,0001090012
+153,1957-03-04,DIS,Disney,,added,0001744489
+156,1957-03-04,D,Dominion Energy,,added,0000715957
+158,1957-03-04,DOV,Dover Corporation,,added,0000029905
+160,1957-03-04,DTE,DTE Energy,,added,0000936340
+161,1957-03-04,DUK,Duke Energy,,added,0001326160
+164,1957-03-04,EMN,Eastman Chemical Company,,added,0000915389
+165,1957-03-04,ETN,Eaton Corporation,,added,0001551182
+166,1957-03-04,EBAY,eBay,,added,0001065088
+167,1957-03-04,ECL,Ecolab,,added,0000031462
+168,1957-03-04,EIX,Edison International,,added,0000827052
+170,1957-03-04,EA,Electronic Arts,,added,0000712515
+171,1957-03-04,ELV,Elevance Health,,added,0001156039
+172,1957-03-04,LLY,Eli Lilly and Company,,added,0000059478
+173,1957-03-04,EMR,Emerson Electric,,added,0000032604
+175,1957-03-04,ETR,Entergy,,added,0000065984
+176,1957-03-04,EOG,EOG Resources,,added,0000821189
+179,1957-03-04,EFX,Equifax,,added,0000033185
+181,1957-03-04,EQR,Equity Residential,,added,0000906107
+183,1957-03-04,EL,Estée Lauder Companies (The),,added,0001001250
+185,1957-03-04,EG,Everest Re,,added,0001095073
+187,1957-03-04,ES,Eversource,,added,0000072741
+188,1957-03-04,EXC,Exelon,,added,0001109357
+190,1957-03-04,EXPD,Expeditors International,,added,0000746515
+192,1957-03-04,XOM,ExxonMobil,,added,0000034088
+198,1957-03-04,FDX,FedEx,,added,0001048911
+199,1957-03-04,FITB,Fifth Third Bank,,added,0000035527
+201,1957-03-04,FE,FirstEnergy,,added,0001031296
+202,1957-03-04,FIS,FIS,,added,0001136893
+203,1957-03-04,FI,Fiserv,,added,0000798354
+206,1957-03-04,F,Ford Motor Company,,added,0000037996
+209,1957-03-04,FOXA,Fox Corporation (Class A),,added,0001754301
+211,1957-03-04,BEN,Franklin Templeton,,added,0000038777
+212,1957-03-04,FCX,Freeport-McMoRan,,added,0000831259
+216,1957-03-04,GEN,Gen Digital,,added,0000849399
+218,1957-03-04,GD,General Dynamics,,added,0000040533
+219,1957-03-04,GE,General Electric,,added,0000040545
+220,1957-03-04,GIS,General Mills,,added,0000040704
+222,1957-03-04,GPC,Genuine Parts Company,,added,0000040987
+223,1957-03-04,GILD,Gilead Sciences,,added,0000882095
+224,1957-03-04,GL,Globe Life,,added,0000320335
+226,1957-03-04,GS,Goldman Sachs,,added,0000886982
+227,1957-03-04,HAL,Halliburton,,added,0000045012
+228,1957-03-04,HIG,Hartford (The),,added,0000874766
+229,1957-03-04,HAS,Hasbro,,added,0000046080
+231,1957-03-04,PEAK,Healthpeak,,added,0000765880
+233,1957-03-04,HSY,Hershey's,,added,0000047111
+234,1957-03-04,HES,Hess Corporation,,added,0000004447
+238,1957-03-04,HD,Home Depot (The),,added,0000354950
+239,1957-03-04,HON,Honeywell,,added,0000773840
+241,1957-03-04,HST,Host Hotels & Resorts,,added,0001070750
+243,1957-03-04,HPQ,HP Inc.,,added,0000047217
+244,1957-03-04,HUM,Humana,,added,0000049071
+245,1957-03-04,HBAN,Huntington Bancshares,,added,0000049196
+247,1957-03-04,IBM,IBM,,added,0000051143
+250,1957-03-04,ITW,Illinois Tool Works,,added,0000049826
+255,1957-03-04,INTC,Intel,,added,0000050863
+257,1957-03-04,IFF,International Flavors & Fragrances,,added,0000051253
+258,1957-03-04,IP,International Paper,,added,0000051434
+259,1957-03-04,IPG,Interpublic Group of Companies (The),,added,0000051644
+261,1957-03-04,ISRG,Intuitive Surgical,,added,0001035267
+262,1957-03-04,IVZ,Invesco,,added,0000914208
+264,1957-03-04,IQV,IQVIA,,added,0001478242
+265,1957-03-04,IRM,Iron Mountain,,added,0001020569
+268,1957-03-04,J,Jacobs Solutions,,added,0000052988
+269,1957-03-04,JNJ,Johnson & Johnson,,added,0000200406
+270,1957-03-04,JCI,Johnson Controls,,added,0000833444
+271,1957-03-04,JPM,JPMorgan Chase,,added,0000019617
+273,1957-03-04,K,Kellogg's,,added,0000055067
+276,1957-03-04,KEY,KeyCorp,,added,0000091576
+278,1957-03-04,KMB,Kimberly-Clark,,added,0000055785
+279,1957-03-04,KIM,Kimco Realty,,added,0000879101
+281,1957-03-04,KLAC,KLA Corporation,,added,0000319201
+283,1957-03-04,KR,Kroger,,added,0000056873
+284,1957-03-04,LHX,L3Harris,,added,0000202058
+285,1957-03-04,LH,LabCorp,,added,0000920148
+290,1957-03-04,LEN,Lennar,,added,0000920760
+291,1957-03-04,LIN,Linde plc,,added,0001707925
+294,1957-03-04,LMT,Lockheed Martin,,added,0000936468
+295,1957-03-04,L,Loews Corporation,,added,0000060086
+296,1957-03-04,LOW,Lowe's,,added,0000060667
+298,1957-03-04,MTB,M&T Bank,,added,0000036270
+299,1957-03-04,MRO,Marathon Oil,,added,0000101778
+302,1957-03-04,MAR,Marriott International,,added,0001048286
+303,1957-03-04,MMC,Marsh McLennan,,added,0000062709
+305,1957-03-04,MAS,Masco,,added,0000062996
+306,1957-03-04,MA,Mastercard,,added,0001141391
+308,1957-03-04,MKC,McCormick & Company,,added,0000063754
+309,1957-03-04,MCD,McDonald's,,added,0000063908
+310,1957-03-04,MCK,McKesson,,added,0000927653
+311,1957-03-04,MDT,Medtronic,,added,0001613103
+312,1957-03-04,MRK,Merck & Co.,,added,0000310158
+313,1957-03-04,META,Meta Platforms,,added,0001326801
+314,1957-03-04,MET,MetLife,,added,0001099219
+317,1957-03-04,MCHP,Microchip Technology,,added,0000827054
+318,1957-03-04,MU,Micron Technology,,added,0000723125
+319,1957-03-04,MSFT,Microsoft,,added,0000789019
+324,1957-03-04,TAP,Molson Coors Beverage Company,,added,0000024545
+325,1957-03-04,MDLZ,Mondelez International,,added,0001103982
+328,1957-03-04,MCO,Moody's Corporation,,added,0001059556
+329,1957-03-04,MS,Morgan Stanley,,added,0000895421
+331,1957-03-04,MSI,Motorola Solutions,,added,0000068505
+333,1957-03-04,NDAQ,"Nasdaq, Inc.",,added,0001120193
+334,1957-03-04,NTAP,NetApp,,added,0001002047
+336,1957-03-04,NEM,Newmont,,added,0001164727
+339,1957-03-04,NEE,NextEra Energy,,added,0000753308
+340,1957-03-04,NKE,"Nike, Inc.",,added,0000320187
+341,1957-03-04,NI,NiSource,,added,0001111711
+343,1957-03-04,NSC,Norfolk Southern Railway,,added,0000702165
+344,1957-03-04,NTRS,Northern Trust,,added,0000073124
+345,1957-03-04,NOC,Northrop Grumman,,added,0001133421
+347,1957-03-04,NRG,NRG Energy,,added,0001013871
+348,1957-03-04,NUE,Nucor,,added,0000073309
+349,1957-03-04,NVDA,Nvidia,,added,0001045810
+352,1957-03-04,ORLY,O'Reilly Auto Parts,,added,0000898173
+353,1957-03-04,OXY,Occidental Petroleum,,added,0000797468
+355,1957-03-04,OMC,Omnicom Group,,added,0000029989
+357,1957-03-04,OKE,ONEOK,,added,0001039684
+358,1957-03-04,ORCL,Oracle Corporation,,added,0001341439
+361,1957-03-04,PCAR,Paccar,,added,0000075362
+364,1957-03-04,PARA,Paramount Global,,added,0000813828
+365,1957-03-04,PH,Parker Hannifin,,added,0000076334
+366,1957-03-04,PAYX,Paychex,,added,0000723531
+370,1957-03-04,PEP,PepsiCo,,added,0000077476
+371,1957-03-04,PFE,Pfizer,,added,0000078003
+373,1957-03-04,PM,Philip Morris International,,added,0001413329
+375,1957-03-04,PNW,Pinnacle West,,added,0000764622
+376,1957-03-04,PXD,Pioneer Natural Resources,,added,0001038357
+377,1957-03-04,PNC,PNC Financial Services,,added,0000713676
+379,1957-03-04,PPG,PPG Industries,,added,0000079879
+380,1957-03-04,PPL,PPL Corporation,,added,0000922224
+381,1957-03-04,PFG,Principal Financial Group,,added,0001126328
+382,1957-03-04,PG,Procter & Gamble,,added,0000080424
+383,1957-03-04,PGR,Progressive Corporation,,added,0000080661
+384,1957-03-04,PLD,Prologis,,added,0001045609
+385,1957-03-04,PRU,Prudential Financial,,added,0001137774
+386,1957-03-04,PEG,Public Service Enterprise Group,,added,0000788784
+388,1957-03-04,PSA,Public Storage,,added,0001393311
+389,1957-03-04,PHM,PulteGroup,,added,0000822416
+391,1957-03-04,PWR,Quanta Services,,added,0001050915
+392,1957-03-04,QCOM,Qualcomm,,added,0000804328
+393,1957-03-04,DGX,Quest Diagnostics,,added,0001022079
+394,1957-03-04,RL,Ralph Lauren Corporation,,added,0001037038
+396,1957-03-04,RTX,RTX Corporation,,added,0000101829
+400,1957-03-04,RF,Regions Financial Corporation,,added,0001281761
+401,1957-03-04,RSG,Republic Services,,added,0001060391
+403,1957-03-04,RVTY,Revvity,,added,0000031791
+404,1957-03-04,RHI,Robert Half,,added,0000315213
+405,1957-03-04,ROK,Rockwell Automation,,added,0001024478
+407,1957-03-04,ROP,Roper Technologies,,added,0000882835
+410,1957-03-04,SPGI,S&P Global,,added,0000064040
+413,1957-03-04,SLB,Schlumberger,,added,0000087347
+415,1957-03-04,SEE,Sealed Air,,added,0001012100
+416,1957-03-04,SRE,Sempra Energy,,added,0001032208
+418,1957-03-04,SHW,Sherwin-Williams,,added,0000089800
+419,1957-03-04,SPG,Simon Property Group,,added,0001063761
+421,1957-03-04,SJM,J.M. Smucker Company (The),,added,0000091419
+422,1957-03-04,SNA,Snap-on,,added,0000091440
+424,1957-03-04,SO,Southern Company,,added,0000092122
+425,1957-03-04,LUV,Southwest Airlines,,added,0000092380
+426,1957-03-04,SWK,Stanley Black & Decker,,added,0000093556
+428,1957-03-04,STT,State Street Corporation,,added,0000093751
+431,1957-03-04,SYK,Stryker Corporation,,added,0000310764
+434,1957-03-04,SYY,Sysco,,added,0000096021
+436,1957-03-04,TROW,T. Rowe Price,,added,0001113169
+438,1957-03-04,TPR,"Tapestry, Inc.",,added,0001116132
+440,1957-03-04,TGT,Target Corporation,,added,0000027419
+446,1957-03-04,TXN,Texas Instruments,,added,0000097476
+447,1957-03-04,TXT,Textron,,added,0000217346
+448,1957-03-04,TMO,Thermo Fisher Scientific,,added,0000097745
+449,1957-03-04,TJX,TJX Companies,,added,0000109198
+451,1957-03-04,TT,Trane Technologies,,added,0001466258
+453,1957-03-04,TRV,Travelers Companies (The),,added,0000086312
+455,1957-03-04,TFC,Truist,,added,0000092230
+457,1957-03-04,TSN,Tyson Foods,,added,0000100493
+458,1957-03-04,USB,U.S. Bank,,added,0000036104
+461,1957-03-04,UNP,Union Pacific Corporation,,added,0000100885
+463,1957-03-04,UPS,United Parcel Service,,added,0001090727
+465,1957-03-04,UNH,UnitedHealth Group,,added,0000731766
+467,1957-03-04,VLO,Valero Energy,,added,0001035002
+469,1957-03-04,VRSN,Verisign,,added,0001014473
+471,1957-03-04,VZ,Verizon,,added,0000732712
+473,1957-03-04,VFC,VF Corporation,,added,0000103379
+474,1957-03-04,VTRS,Viatris,,added,0001792044
+477,1957-03-04,VMC,Vulcan Materials Company,,added,0001396009
+479,1957-03-04,WBA,Walgreens Boots Alliance,,added,0001618921
+480,1957-03-04,WMT,Walmart,,added,0000104169
+481,1957-03-04,WBD,Warner Bros. Discovery,,added,0001437107
+482,1957-03-04,WM,Waste Management,,added,0000823768
+483,1957-03-04,WAT,Waters Corporation,,added,0001000697
+484,1957-03-04,WEC,WEC Energy Group,,added,0000783325
+485,1957-03-04,WFC,Wells Fargo,,added,0000072971
+486,1957-03-04,WELL,Welltower,,added,0000766704
+488,1957-03-04,WDC,Western Digital,,added,0000106040
+489,1957-03-04,WRK,WestRock,,added,0001732845
+490,1957-03-04,WY,Weyerhaeuser,,added,0000106535
+491,1957-03-04,WHR,Whirlpool Corporation,,added,0000106640
+492,1957-03-04,WMB,Williams Companies,,added,0000107263
+493,1957-03-04,WTW,Willis Towers Watson,,added,0001140536
+494,1957-03-04,GWW,W. W. Grainger,,added,0000277135
+495,1957-03-04,WYNN,Wynn Resorts,,added,0001174922
+496,1957-03-04,XEL,Xcel Energy,,added,0000072903
+498,1957-03-04,YUM,Yum! Brands,,added,0001041061
+500,1957-03-04,ZBH,Zimmer Biomet,,added,0001136869
+501,1957-03-04,ZION,Zions Bancorporation,,added,0000109380
