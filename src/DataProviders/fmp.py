@@ -61,5 +61,5 @@ class FinancialModellingProp(DataProvider):
 
 if __name__ == '__main__':
 
-    fmp = FinancialModellingProp(api_key='aba9a750dd340f1afcb8fd2d959706de')
+    fmp = FinancialModellingProp(api_key='your-token')
     fmp.stocksList()
