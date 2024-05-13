@@ -1,3 +1,27 @@
+[project]
+name = "OMTF"
+version = "1.0.3"
+authors = [
+  { name="Daniel Cano", email="dcaronm@gmail.com" },
+]
+maintainers = [
+  { name="Daniel Cano", email="dcaronm@gmail.com" },
+]
+description = "OM Trading Framework is the framework I use to test my strategies and carry out the portfolio management."
+readme = {file = "README.md", content-type = "text/markdown"}
+requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://onemade.es"
+Repository = "https://github.com/Daniel-OM/OMTF"
+Issues = "https://github.com/Daniel-OM/OMTF/issues"
+
 [build-system]
 requires = [
     'beautifulsoup4>=4.12.3',
